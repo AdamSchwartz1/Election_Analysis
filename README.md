@@ -28,7 +28,17 @@ The results of the analysis show that:
   - Diana DeGette, who had 73.8% of the votes with 272,892 votes
 
 ## Challenge Overview
+For the challenge, I took a deeper look in to the election audit and analyzed the voting data for each county. I calculated the following information for each county.
+1. Total number of votes for each county.
+2. The percentage of votes that came from each county.
+3. And which county had the highest voter turnout.
 
 ## Challenge Summary
-
+The results of the challenge are stated below:
+1. Total votes and percentage of votes:
+  - Jefferson County had 10.5% of the votes with 38,885.
+  - Denver County had 82.8% of the votes with 306,055.
+  - Arapahoe County had 6.7% of the votes with 24,801.
+2. County with highest voter turnout:
+  - Denver had the highest voter turnout with 82.8% of the votes with a total of 306,055 votes.
 
