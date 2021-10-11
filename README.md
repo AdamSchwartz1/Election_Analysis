@@ -28,7 +28,20 @@ The results of the analysis show that:
   - Diana DeGette, who had 73.8% of the votes with 272,892 votes
 
 ## Challenge Overview
+For the challenge, I took a deeper look in to the election audit and analyzed the voting data for each county. I calculated the following information for each county.
+1. Total number of votes for each county.
+2. The percentage of votes that came from each county.
+3. And which county had the highest voter turnout.
 
 ## Challenge Summary
+The results of the challenge are stated below:
+1. Total votes and percentage of votes:
+  - Jefferson County had 10.5% of the votes with 38,885.
+  - Denver County had 82.8% of the votes with 306,055.
+  - Arapahoe County had 6.7% of the votes with 24,801.
+2. County with highest voter turnout:
+  - Denver had the highest voter turnout with 82.8% of the votes with a total of 306,055 votes.
 
+### Future elections
+This template could be very helpful in tolling data for future elections. The framing of it is already there but with a few minor changes, this would work for any election. One change that could be made is instead of having this template set up for just county elections, I could add an input statement that would allow an option to select the type of election it is (i.e. county, state, national.) Once that input is selected, you could reference that in the print statement or text file so it will say which type of election it is. My second suggestion is that I only explicity stated who won the election; a lot of times people like to know the order in which the candidates finished. I could build in a conditional statement that would list the candidates in order from who finished first to who finished last. These are just two improvements I think I could make to improve this election tool.
 
